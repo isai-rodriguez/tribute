@@ -1,0 +1,26 @@
+body { 
+
+   align-items:center;
+    background-color:black;
+    text-align:center;
+    color:white
+}
+    
+
+h2{ 
+    font-size: x-large;
+
+}
+
+.logo {
+    mix-blend-mode: color-burn;
+}
+
+.who_they_are {
+    text-align: center;
+}
+
+.table {
+    font-size: xx-large;
+    /* text-align: ; */
+}
