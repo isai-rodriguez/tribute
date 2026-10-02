@@ -6,9 +6,13 @@ body {
     color:white;
     font-style: italic
 }
-    
+   
+a{
+    font-size: xx-large;
+    color: red;
+}
 
-h2{ 
+h3{ 
     font-size: x-large;
 
 
@@ -18,9 +22,6 @@ h2{
     mix-blend-mode: color-burn;
 }
 
-.who_they_are {
-    text-align: center;
-}
 
 table {
     font-size: xx-large;
@@ -39,5 +40,6 @@ table {
 
 img {
     min-width: 50%;
+    border-radius: 60px;
 }
 
