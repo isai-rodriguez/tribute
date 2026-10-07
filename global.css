@@ -23,6 +23,7 @@ h3{
 }
 
 
+
 table {
     font-size: xx-large;
     width: 100%;
@@ -34,7 +35,6 @@ table {
     flex: content;
     flex-direction: column;
     align-content: center;
-
 
 }
 
