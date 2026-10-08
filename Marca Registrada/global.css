@@ -3,10 +3,15 @@ body{
     color:white
     
 }
-
+.my-button{
+    display: inline-block;
+    background-color: whitesmoke;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 30px;
+}
 a {
     font-size: xx-large;
-    color: red;
 }
 
 h1 {
